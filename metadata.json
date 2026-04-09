@@ -1,0 +1,5 @@
+{
+  "name": "Think to Visual",
+  "description": "A cinematic storyboard generator that transforms any story into a sequence of visually stunning, professionally directed frames using Gemini AI.",
+  "requestFramePermissions": []
+}
